@@ -1,10 +1,10 @@
 # Mini-Game Turtle: Explorando o Mundo
 
-**Descrição do Mini-Game Turtle: Explorando o Mundo**
+## **Descrição do Mini-Game Turtle: Explorando o Mundo**
 
 Bem-vindo ao "Explorando o Mundo", um mini-game interativo desenvolvido em Python com a biblioteca `turtle`. Neste jogo simples, você está no controle de uma tartaruga virtual e tem a oportunidade de explorar o espaço ao redor.
 
-**Instruções:**
+### **Instruções:**
 
 1. Ao iniciar o jogo, uma janela será exibida com uma tartaruga vermelha pronta para a aventura.
 
@@ -14,7 +14,7 @@ Bem-vindo ao "Explorando o Mundo", um mini-game interativo desenvolvido em Pytho
 
 4. Após cada movimento, você terá a opção de continuar explorando ou encerrar o jogo.
 
-**Controles:**
+### **Controles:**
 
 - `f`: Mover para frente.
 - `t`: Mover para trás.
@@ -22,12 +22,12 @@ Bem-vindo ao "Explorando o Mundo", um mini-game interativo desenvolvido em Pytho
 - `e`: Rotacionar para a esquerda.
 - `n`: Não rotacionar.
 
-**Dicas:**
+### **Dicas:**
 
 - Experimente diferentes combinações de movimentos e rotações para explorar padrões interessantes.
 - Se quiser começar uma nova exploração, basta reiniciar o jogo.
 
-**Divirta-se explorando o mundo com sua tartaruga virtual!**
+### **Divirta-se explorando o mundo com sua tartaruga virtual!**
 
 ---
 
